@@ -45,3 +45,5 @@ print("\nOrdered deck:")
 print(show_seq(new_deck, ", "))
 print("\nShuffled deck:")
 print(show_seq(shuffle(new_deck), ", "))
+
+#Small git test
